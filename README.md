@@ -5,7 +5,7 @@ I'm using github as a place to group up all of my training and projects/
 It may include school stuff and also personal work!
 Don't expect any advanced tools yet, I'm learning the basics ! 
 
-Using AI to progress faster, not to create without learning..
+Using AI to learn faster!
 
 - 🔭 I’m currently exploring **Python, HTML, CSS, MySQL, and now Linux !**
 
