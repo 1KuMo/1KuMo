@@ -20,8 +20,10 @@ Using AI to learn faster!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucepaml1qj-mrtwaukyhwjpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucepaml1qj-mrtwaukyhwjpg" height="30" width="40" /></a>
-<a href="https://discord.gg/n3li0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="n3li0" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@kumoo.30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucepaml1qj-mrtwaukyhwjpg" height="30" width="40" /></a>
+<a href="https://discord.com/users/717423578324140132" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="n3li0" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
